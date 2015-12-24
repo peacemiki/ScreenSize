@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_grey">#333333</color>
+    <color name="dark_orange">#F34600</color>
+    <color name="darker_grey">#787878</color>
+    <color name="grey">#A19D9A</color>
+    <color name="light_grey">#F2F3F0</color>
+    <color name="light_orange">#FF3000</color>
+    <color name="orange">#FA4100</color>
+    <string name="activity_screen_size_link_to_web">View full device list</string>
+    <string name="activity_screen_size_navigation_bar_height_title">Navigation bar height: </string>
+    <string name="activity_screen_size_navigation_bar_width_title">Navigation bar width: </string>
+    <string name="activity_screen_size_status_bar_height_title">Status bar height: </string>
+    <string name="activity_screen_size_text_view_collecting_information">Collecting information…</string>
+    <string name="activity_screen_size_title_bar_height_title">Title bar height: </string>
+    <string name="app_name">Screen Size</string>
+    <string name="screen_size">nothing</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme"/>
+    <style name="Header1">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/dark_orange</item>
+    </style>
+    <style name="Header2">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/dark_orange</item>
+    </style>
+    <style name="Header3">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/dark_orange</item>
+    </style>
+</resources>

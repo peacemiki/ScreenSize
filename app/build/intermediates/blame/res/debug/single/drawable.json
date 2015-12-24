@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/kevin/Documents/Personal/ScreenSize/app/build/intermediates/res/merged/debug/drawable/width.9.png",
+        "source": "/Users/kevin/Documents/Personal/ScreenSize/app/src/main/res/drawable/width.9.png"
+    },
+    {
+        "merged": "/Users/kevin/Documents/Personal/ScreenSize/app/build/intermediates/res/merged/debug/drawable/height.9.png",
+        "source": "/Users/kevin/Documents/Personal/ScreenSize/app/src/main/res/drawable/height.9.png"
+    },
+    {
+        "merged": "/Users/kevin/Documents/Personal/ScreenSize/app/build/intermediates/res/merged/debug/drawable/button_selected.xml",
+        "source": "/Users/kevin/Documents/Personal/ScreenSize/app/src/main/res/drawable/button_selected.xml"
+    },
+    {
+        "merged": "/Users/kevin/Documents/Personal/ScreenSize/app/build/intermediates/res/merged/debug/drawable/activity_screen_size_background.xml",
+        "source": "/Users/kevin/Documents/Personal/ScreenSize/app/src/main/res/drawable/activity_screen_size_background.xml"
+    },
+    {
+        "merged": "/Users/kevin/Documents/Personal/ScreenSize/app/build/intermediates/res/merged/debug/drawable/button_not_selected.xml",
+        "source": "/Users/kevin/Documents/Personal/ScreenSize/app/src/main/res/drawable/button_not_selected.xml"
+    },
+    {
+        "merged": "/Users/kevin/Documents/Personal/ScreenSize/app/build/intermediates/res/merged/debug/drawable/button.xml",
+        "source": "/Users/kevin/Documents/Personal/ScreenSize/app/src/main/res/drawable/button.xml"
+    }
+]
